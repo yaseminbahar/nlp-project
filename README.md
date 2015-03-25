@@ -3,9 +3,13 @@ In this project I will analyse reviews of Turkish Airlines. I will fetch reviews
 Every reviews have following structural fields along with the free form review itself.
 Customers are allowed to evaluate airlines using multi-criteria e.g. catering, staff service, seat comfort, cabin flown...
 
-1) Rating : 8/10
-2) Date : 19 March 2015
-3) Country: Brazil
+<div align="center">
+    <img width="45%" src="review.PNG" alt="About screen" title="About screen"</img>
+</div>
+
+1. Rating : 8/10
+2. Date : 19 March 2015
+3. Country: Brazil
 ..
 
 I will extract adjectives from reviews using OpenNLP Part of Speech tagger tool. 
