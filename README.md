@@ -4,7 +4,7 @@ Every reviews have following structural fields along with the free form review i
 Customers are allowed to evaluate airlines using multi-criteria e.g. catering, staff service, seat comfort, cabin flown...
 
 <div align="left-align">
-    <img width="45%" src="C:\\Kullanıcılar\YASEMİN\Masaüstü\review.png" alt="About screen" title="About screen"</img>
+    <img width="45%" src="C:\\Kullanıcılar\YASEMİN\Masaüstü\review.png" </img>
 </div>
 
 1. Rating : 8/10
