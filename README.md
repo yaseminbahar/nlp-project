@@ -3,8 +3,8 @@ In this project I will analyse reviews of Turkish Airlines. I will fetch reviews
 Every reviews have following structural fields along with the free form review itself.
 Customers are allowed to evaluate airlines using multi-criteria e.g. catering, staff service, seat comfort, cabin flown...
 
-<div align="center">
-    <img width="45%" src="review.PNG" alt="About screen" title="About screen"</img>
+<div align="left-align">
+    <img width="45%" src="C:\\Kullanıcılar\YASEMİN\Masaüstü\review.png" alt="About screen" title="About screen"</img>
 </div>
 
 1. Rating : 8/10
