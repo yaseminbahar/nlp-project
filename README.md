@@ -9,7 +9,6 @@ Every reviews have following structural fields along with the free form review i
 
 Also, customers are allowed to evaluate airlines using multi-criteria e.g. catering, staff service, seat comfort, cabin flown...
 
-https://raw.github.com/yaseminbahar/nlp-project/Screenshots/review.png
 
 I will extract adjectives from reviews using OpenNLP Part of Speech tagger tool. 
 
