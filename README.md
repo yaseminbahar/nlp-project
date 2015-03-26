@@ -1,16 +1,15 @@
 # nlp-project
 In this project I will analyse reviews of Turkish Airlines. I will fetch reviews from http://www.airlinequality.com/Forum/turkish.htm website.
 Every reviews have following structural fields along with the free form review itself.
-Customers are allowed to evaluate airlines using multi-criteria e.g. catering, staff service, seat comfort, cabin flown...
-
-<div align="left-align">
-    <img width="45%" src="C:\Kullanıcılar\YASEMİN\Masaüstü\review.png" </img>
-</div>
 
 1. Rating : 8/10
 2. Date : 19 March 2015
 3. Country: Brazil
 ..
+
+Also, customers are allowed to evaluate airlines using multi-criteria e.g. catering, staff service, seat comfort, cabin flown...
+
+https://raw.github.com/yaseminbahar/nlp-project/Screenshots/review.png
 
 I will extract adjectives from reviews using OpenNLP Part of Speech tagger tool. 
 
